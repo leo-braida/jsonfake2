@@ -5,11 +5,6 @@
         {"id":2, "idTrabalhador":2, "idAgenda":2},
         {"id":3, "idTrabalhador":1, "idAgenda":3}
       ],
-    "agendamentos":[
-        {"id":1,"horarioInicio":  "10:00","idHospedagem":1,"idAgenda":1},
-        {"id":2,"horarioInicio":"14:00","idHospedagem":1,"idAgenda":2},
-        {"id":3,"horarioInicio":"15:00","idHospedagem":2,"idAgenda":3}
-      ],
     "trabalhadores":[
         {"id":1, "nome":"Léo Braida", "telefone":"32912312312", "email":"leo@email.exemplo","estado":"MG", "cidade":"Juiz de Fora", "cep":"36363-636",  "bairro":"bairro 1", "logradouro":"rua 1", "numeroMoradia":"10", "complemento":"", "genero": "masc", "senha":"senhaBacana", "dataNascimento":"07-07-2007", "cpf":"111111111-11", "cargo":"admin", "idHotel":""},
         {"id":2, "nome":"Lorran Henrique", "telefone":"11932132132", "email":"lorran@gmail.com", "estado":"PA", "cidade":"Fora do Juiz", "cep":"12312-312", "bairro":"Dona Lurdes", "logradouro":"rua 2", "numeroMoradia":"20", "complemento":"B305", "genero": "masc", "senha": "senhaPaia", "dataNascimento":"01-01-2001", "cpf":"222222222-22", "cargo":"funcionario", "idHotel":1},
@@ -24,5 +19,12 @@
         {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
         {"id":2, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
         {"id":3, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
+      ],
+      "horarios":[
+        {"id":1, "horarioInicio":"08:40", "horarioFim":"12:00", "idAgenda":1},  
+        {"id":2, "horarioInicio":"13:00", "horarioFim":"19:30", "idAgenda":1},  
+        {"id":3, "horarioInicio":"08:30", "horarioFim":"12:00", "idAgenda":2},  
+        {"id":4, "horarioInicio":"12:40", "horarioFim":"19:30", "idAgenda":2},  
+        {"id":5, "horarioInicio":"10:00", "horarioFim":"10:05", "idAgenda":3},  
       ]
 }
