@@ -22,7 +22,6 @@
       ],
       "agendas":[
         {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
-        {"id":2, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
         {"id":3, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
         {"id":4, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
       ]
