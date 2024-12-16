@@ -2,8 +2,8 @@
     "gruposPorAgenda":[
         {"id":1, "idTrabalhador":3, "idAgenda":1},
         {"id":2, "idTrabalhador":2, "idAgenda":1},
-        {"id":2, "idTrabalhador":2, "idAgenda":3},
-        {"id":3, "idTrabalhador":1, "idAgenda":4}
+        {"id":2, "idTrabalhador":2, "idAgenda":2},
+        {"id":3, "idTrabalhador":1, "idAgenda":3}
       ],
     "agendamentos":[
         {"id":1,"horarioInicio":  "10:00","idHospedagem":1,"idAgenda":1},
