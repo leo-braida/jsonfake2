@@ -11,9 +11,9 @@
         {"id":3, "nome":"Mateus Mauricio", "telefone":"02901230123", "email":"mateus@yahoo.com.br", "estado":"RJ", "cidade":"Cuiabá", "cep":"41023-987", "bairro":"Bairro 4", "logradouro":"rua 3", "numeroMoradia":"30", "complemento":"Z1987", "genero": "fem", "senha": "senhaMaisOuMenos", "dataNascimento":"09-09-2009", "cpf":"999999999-00", "cargo":"gerente", "idHotel":2}
       ],      
     "servicos":[
-        {"id":1, "nome":"Massagem", "descricao":"Sessão de massagem de 1 hora", "preco":0, "idHotel":2, "minutosPorAgendamento":60},
-        {"id":2, "nome":"Partida de futebol", "descricao":"Partida de futebol", "preco":10000.00, "idHotel":1, "minutosPorAgendamento":0},
-        {"id":3, "nome":"Aula de hidroginástica", "descricao":"Aula de hidroginástica na piscina aquecida", "preco":999999.99, "idHotel":1, "minutosPorAgendamento":5}
+        {"id":1, "nome":"Massagem", "descricao":"Sessão de massagem de 1 hora", "preco":0, "minutosPorAgendamento":60},
+        {"id":2, "nome":"Partida de futebol", "descricao":"Partida de futebol", "preco":10000.00, "minutosPorAgendamento":0},
+        {"id":3, "nome":"Aula de hidroginástica", "descricao":"Aula de hidroginástica na piscina aquecida", "preco":999999.99, "minutosPorAgendamento":5}
       ],
       "agendas":[
         {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
