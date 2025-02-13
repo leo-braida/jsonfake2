@@ -14,11 +14,6 @@
         {"id":2, "nome":"Partida de futebol", "descricao":"Partida de futebol", "preco":10000.00, "minutosPorAgendamento":0},
         {"id":3, "nome":"Aula de hidroginástica", "descricao":"Aula de hidroginástica na piscina aquecida", "preco":999999.99, "minutosPorAgendamento":5}
       ],
-      "agendas":[
-        {"id":1, "horarioInicio":"08:40", "horarioFim":"19:30", "dias":"Qui-Sex", "idServico":1},
-        {"id":2, "horarioInicio":"10:00", "horarioFim":"12:40", "dias":"Seg-Ter-Qua", "idServico":2},
-        {"id":3, "horarioInicio":"10:00", "horarioFim":"10:05", "dias":"Seg", "idServico":3}
-      ],
       "horarios":[
         {"id":1, "horarioInicio":"08:40", "horarioFim":"12:00", "idAgenda":1},  
         {"id":2, "horarioInicio":"13:00", "horarioFim":"19:30", "idAgenda":1},  
